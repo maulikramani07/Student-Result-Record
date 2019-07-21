@@ -1,6 +1,8 @@
 # Student-Result-Record
 Student Result Records -- Advance Java (assignment-1)
 
+database Demo hosted on amazon aws server 
+
 here you have to 
 
 1) first run SchemaCreation.java First which create Schema of database.
